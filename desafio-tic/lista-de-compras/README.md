@@ -46,7 +46,7 @@ Este é um aplicativo de lista de compras simples desenvolvido em Python. Ele pe
 
 ## Como Usar
 
-1. Execute o arquivo Python `lista_de_compras.py`.
+1. Execute o arquivo Python `compras.py`.
 2. Siga as instruções exibidas no menu para adicionar, remover ou pesquisar produtos.
 
 Espero que esta aplicação atenda às suas necessidades! Se tiver alguma dúvida, estou à disposição. 😊
